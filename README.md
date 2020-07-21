@@ -1,5 +1,5 @@
 # trail
-Trail for all the prominent news papers to hold them accountable for what print and publish
+Trail for all the prominent news papers to hold them accountable for what they print and publish
 
 ## Goals
 
