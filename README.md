@@ -1,4 +1,4 @@
-# trail
+# Trail Project
 Trail for all the prominent news papers to hold them accountable for what they print and publish
 
 ## Goals
